@@ -54,8 +54,9 @@ Console.WriteLine($"Total da soma dos números digitados é: {soma}");
 // Exemplo de Menu interativo usando loop.
 
 string? opcao;
+bool exibirMenu = true;
 
-while(true)
+while(exibirMenu)
 {
     Console.Clear();
     Console.WriteLine("\n Digite a sua opção: ");
@@ -82,7 +83,8 @@ while(true)
 
         case "4":
             Console.WriteLine("Encerrar");
-            Environment.Exit(0);
+            // Enviroment.Exit(0);
+            exibirMenu = false;
             break;
         
         default: 
