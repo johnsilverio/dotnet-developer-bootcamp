@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "operadores-aritmeticos", "operadores-aritmeticos\operadores-aritmeticos.csproj", "{4D8E4228-548C-4C41-A5E6-753A31F61468}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tipos-de-dados", "tipos-de-dados\tipos-de-dados.csproj", "{B04291CE-C99E-4658-A348-2427640331A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tipos-de-operadores", "tipos-de-operadores\tipos-de-operadores.csproj", "{EE05775A-AF6C-4318-816F-3CA41AE77325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8E4228-548C-4C41-A5E6-753A31F61468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8E4228-548C-4C41-A5E6-753A31F61468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8E4228-548C-4C41-A5E6-753A31F61468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8E4228-548C-4C41-A5E6-753A31F61468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04291CE-C99E-4658-A348-2427640331A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04291CE-C99E-4658-A348-2427640331A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04291CE-C99E-4658-A348-2427640331A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04291CE-C99E-4658-A348-2427640331A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE05775A-AF6C-4318-816F-3CA41AE77325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE05775A-AF6C-4318-816F-3CA41AE77325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE05775A-AF6C-4318-816F-3CA41AE77325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE05775A-AF6C-4318-816F-3CA41AE77325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713BF171-DE8E-4FE2-B731-8E7F485763BB}
+	EndGlobalSection
+EndGlobal

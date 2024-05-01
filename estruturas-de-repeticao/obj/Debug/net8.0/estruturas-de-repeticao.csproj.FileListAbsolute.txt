@@ -1,0 +1,15 @@
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\bin\Debug\net8.0\estruturas-de-repeticao.exe
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\bin\Debug\net8.0\estruturas-de-repeticao.deps.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\bin\Debug\net8.0\estruturas-de-repeticao.runtimeconfig.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\bin\Debug\net8.0\estruturas-de-repeticao.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\bin\Debug\net8.0\estruturas-de-repeticao.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.AssemblyInfoInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.AssemblyInfo.cs
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.sourcelink.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\refint\estruturas-de-repeticao.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\estruturas-de-repeticao.genruntimeconfig.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\dotnet-developer-bootcamp\estruturas-de-repeticao\obj\Debug\net8.0\ref\estruturas-de-repeticao.dll
