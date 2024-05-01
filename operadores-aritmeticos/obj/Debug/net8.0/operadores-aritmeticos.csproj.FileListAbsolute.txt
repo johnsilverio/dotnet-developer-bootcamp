@@ -1,0 +1,14 @@
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.exe
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.deps.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.runtimeconfig.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\bin\Debug\net8.0\operadores-aritmeticos.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.AssemblyInfoInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.AssemblyInfo.cs
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\refint\operadores-aritmeticos.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\operadores-aritmeticos.genruntimeconfig.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\operadores-aritmeticos\obj\Debug\net8.0\ref\operadores-aritmeticos.dll

@@ -1,0 +1,14 @@
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\bin\Debug\net8.0\tipos-de-operadores.exe
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\bin\Debug\net8.0\tipos-de-operadores.deps.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\bin\Debug\net8.0\tipos-de-operadores.runtimeconfig.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\bin\Debug\net8.0\tipos-de-operadores.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\bin\Debug\net8.0\tipos-de-operadores.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.AssemblyInfoInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.AssemblyInfo.cs
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.csproj.CoreCompileInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\refint\tipos-de-operadores.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\tipos-de-operadores.genruntimeconfig.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-operadores\obj\Debug\net8.0\ref\tipos-de-operadores.dll

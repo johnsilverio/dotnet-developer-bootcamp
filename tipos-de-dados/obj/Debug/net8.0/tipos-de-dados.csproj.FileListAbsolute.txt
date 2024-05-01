@@ -1,0 +1,14 @@
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.exe
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.deps.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.runtimeconfig.json
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.AssemblyInfoInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.AssemblyInfo.cs
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\refint\tipos-de-dados.dll
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.pdb
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.genruntimeconfig.cache
+C:\Users\johnv\OneDrive\Documentos\Estudos\Bootcamp Dotnet\tipos-de-dados\obj\Debug\net8.0\ref\tipos-de-dados.dll
