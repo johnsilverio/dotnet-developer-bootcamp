@@ -1,3 +1,3 @@
-﻿using estruturaDeProjeto.common.Pessoa;
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
-Pessoa pessoa1 = new Pessoa();
