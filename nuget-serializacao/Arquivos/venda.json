@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Material de escritório",
+    "Preco": 25.00,
+    "DataVenda": "2024-05-18T17:15:32.0984315-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "Sofware de Gestão",
+    "Preco": 7400.00,
+    "DataVenda": "2024-05-18T17:15:32.0984315-03:00"
+  },
+  {
+    "Id": 3,
+    "Produto": "Materiais de Construção",
+    "Preco": 300.00,
+    "DataVenda": "2024-05-18T17:15:32.0984315-03:00"
+  },
+  {
+    "Id": 4,
+    "Produto": "Refrigerador",
+    "Preco": 200.00,
+    "DataVenda": "2024-05-18T17:15:32.0984315-03:00"
+  },
+  {
+    "Id": 5,
+    "Produto": "Computadores",
+    "Preco": 20000.00,
+    "DataVenda": "2024-05-18T17:15:32.0984315-03:00"
+  }
+]
